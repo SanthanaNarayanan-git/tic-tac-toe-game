@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/SanthanaNarayanan-git/Tic-Tac-Toe.git/static/css/main.450999a8.css",
+    "main.js": "/SanthanaNarayanan-git/Tic-Tac-Toe.git/static/js/main.02dd22ff.js",
+    "static/js/453.e036e8b5.chunk.js": "/SanthanaNarayanan-git/Tic-Tac-Toe.git/static/js/453.e036e8b5.chunk.js",
+    "static/media/logo.svg": "/SanthanaNarayanan-git/Tic-Tac-Toe.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/SanthanaNarayanan-git/Tic-Tac-Toe.git/index.html",
+    "main.450999a8.css.map": "/SanthanaNarayanan-git/Tic-Tac-Toe.git/static/css/main.450999a8.css.map",
+    "main.02dd22ff.js.map": "/SanthanaNarayanan-git/Tic-Tac-Toe.git/static/js/main.02dd22ff.js.map",
+    "453.e036e8b5.chunk.js.map": "/SanthanaNarayanan-git/Tic-Tac-Toe.git/static/js/453.e036e8b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.450999a8.css",
+    "static/js/main.02dd22ff.js"
+  ]
+}
